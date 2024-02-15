@@ -39,7 +39,7 @@ header h3{
     padding-left: 30px;
 }
 
-link:focus:hover{
+a:focus:hover{
     font-style: italic;
 }
 
