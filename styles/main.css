@@ -30,9 +30,14 @@ header img{
     padding: 0 1em;
 }
 
+section{
+    width: 75%;
+}
+
 main {
     clear: both;
     padding: 0 1em;
+    display: flex;
 }
 
 main h1{
